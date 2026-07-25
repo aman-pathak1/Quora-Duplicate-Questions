@@ -1,0 +1,7 @@
+data/embeddings/
+data/processed/
+frontend/node_modules/
+frontend/.next/
+__pycache__/
+*.pyc
+.env
